@@ -1,0 +1,10 @@
+<!--pages/h5camera/h5camera.wxml-->
+<text>pages/h5camera/h5camera.wxml</text>
+
+<view>
+
+<text>h5 web-view </text>
+
+<web-view src="https://mp.weixin.qq.com/s?__biz=MzIxMDM2NzU1OQ==&tempkey=OTkzX2ZLSDkrbWF6bm8rKytUbHlHTE5KZm1CSnc0MWVyTUVvTWdOaWFPbXp6ci13d3paZmpGNVk0MU9WYXpRYzEwdXY4Sm8wUXdudzZEdHR5azc1SjFMblZJekZ0SC1hMWpub3dYMEtlNkFQWks2SWx6MHppd0ZfOUppM3gxUXNpMGRhS0FwQTlidFpjcjNxZl8ybnlCMWRXRTJJeTlqNTdMUDNPV3RIRGd%2Bfg%3D%3D&chksm=1764e43520136d23ba324e042bc0dc4977ac3bfc43fda3fe040c390a10cc2b235863e8d739af#rd"></web-view>
+
+</view>
